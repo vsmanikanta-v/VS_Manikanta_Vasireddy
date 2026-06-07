@@ -13,8 +13,8 @@
 
 <!-- ── PROFILE HEADER ── -->
 <h1>V S Manikanta Vasireddy</h1>
-<h3> Software Developer &nbsp;|&nbsp;  AI & ML Engineer &nbsp;|&nbsp;  Data Analyst</h3>
-<h4> Andhra Pradesh, India &nbsp;|&nbsp; Fresh Graduate — Open to Internships & Full-Time Roles</h4>
+<h3> Software Developer &nbsp;|&nbsp;  AI & ML Enthusiast &nbsp;|&nbsp;  Data Analyst</h3>
+<h4> Andhra Pradesh, India &nbsp;|&nbsp; Recently Graduate — Open to Internships & Full-Time Roles</h4>
 
 <br/>
 
@@ -34,64 +34,47 @@
 
 ## About Me
 
-```python
-class Manikanta:
-    def __init__(self):
-        self.name       = "V S Manikanta Vasireddy"
-        self.role       = ["Software Developer", "AI & ML Engineer", "Data Analyst"]
-        self.education  = "B.Tech @ Srinivasa Institute of Engineering & Technology"
-        self.location   = "Andhra Pradesh, India"
-        self.goals      = ["SDE", "Data Analyst", "AI Engineer", "ML Engineer"]
-        self.interests  = ["Puzzle Solving ", "Cricket ", "Travelling "]
-        self.quote      = " Dream big, code smart, impact the world "
 
-    def say_hi(self):
-        print("Thanks for visiting! Let's build something amazing together ")
-
-me = Manikanta()
-me.say_hi()
-```
-
-> 🔍 **Passionate about transforming data into intelligent solutions**, I specialize in Artificial Intelligence and Machine Learning to build impactful, scalable real-world applications. Leveraging a strong foundation in Python, SQL, and deep learning frameworks, I have hands-on experience developing advanced systems — from intelligent surveillance to predictive analytics. Currently focused on applying my technical expertise in data engineering and machine learning models within an innovative engineering team.
+>  **Passionate about transforming data into intelligent solutions**, I specialize in Artificial Intelligence and Machine Learning to build impactful, scalable real-world applications. Leveraging a strong foundation in Python, SQL, and deep learning frameworks, I have hands-on experience developing advanced systems — from intelligent surveillance to predictive analytics. Currently focused on applying my technical expertise in data engineering and machine learning models within an innovative engineering team.
 
 ---
 
-## 🛠️ Tech Stack & Skills
+##  Tech Stack & Skills
 
-### 👨‍💻 Languages
+### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 🤖 AI / ML Frameworks
+### AI / ML Frameworks
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-### 🗄️ Databases
+### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 📊 Business Intelligence & Data Visualization
+### Business Intelligence & Data Visualization
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-### 🔧 Tools & Platforms
+###  Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### 🧩 Others
+###  Others
 ![Data Structures](https://img.shields.io/badge/Data_Structures-6C63FF?style=for-the-badge&logo=leetcode&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🖐️ Virtual Graphical Interface (VGI)</h3>
+      <h3> Virtual Graphical Interface (VGI)</h3>
       <p>A touchless Human–Computer Interaction system using real-time hand gesture recognition to control system commands seamlessly — no keyboard or mouse needed.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -134,7 +117,7 @@ me.say_hi()
     </td>
     <td width="50%" valign="top">
       <!-- [UPDATE] Add a 4th project here if needed -->
-      <h3>📌 More Projects Coming Soon...</h3>
+      <h3> More Projects Coming Soon...</h3>
       <p>Currently building more exciting AI & Data projects. Stay tuned! 🚀</p>
       <p>
         <a href="https://github.com/vsmanikanta-v">
@@ -167,9 +150,9 @@ me.say_hi()
 
 ---
 
-## 🏆 Achievements & Certifications
+##  Achievements & Certifications
 
-| 🏅 Type | 📌 Title | 🏢 Issuer |
+|  Type |  Title |  Issuer |
 |--------|---------|---------|
 | 📜 Certification | Python for Data Science | IBM |
 | 📜 Certification | SQL for Data Analysis | Udemy |
@@ -178,7 +161,7 @@ me.say_hi()
 
 ---
 
-## 📚 Currently Learning
+##  Currently Learning
 
 <div align="center">
 
@@ -191,19 +174,19 @@ me.say_hi()
 
 ---
 
-## 🤝 Open to Collaborate On
+##  Open to Collaborate On
 
 <div align="center">
 
-🔬 **Research Projects** &nbsp;&nbsp;|&nbsp;&nbsp; 🌍 **Open-Source Projects** &nbsp;&nbsp;|&nbsp;&nbsp; 💼 **Freelance Opportunities**
+ **Research Projects** &nbsp;&nbsp;|&nbsp;&nbsp;  **Open-Source Projects** &nbsp;&nbsp;|&nbsp;&nbsp;  **Freelance Opportunities**
 
-🚀 **Startup Ideas** &nbsp;&nbsp;|&nbsp;&nbsp; ⚡ **Hackathons** &nbsp;&nbsp;|&nbsp;&nbsp; 📊 **Data Science & ML Projects**
+**Startup Ideas** &nbsp;&nbsp;|&nbsp;&nbsp;  **Hackathons** &nbsp;&nbsp;|&nbsp;&nbsp;  **Data Science & ML Projects**
 
 </div>
 
 ---
 
-## 📬 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
@@ -227,7 +210,7 @@ me.say_hi()
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=💡+Dream+big%2C+code+smart%2C+impact+the+world+🌊;🚀+Always+open+to+new+opportunities!;📩+Let's+build+something+amazing+together!" alt="Footer Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=+Dream+big%2C+code+smart%2C+impact+the+world+🌊;+Always+open+to+new+opportunities!;+Let's+build+something+amazing+together!" alt="Footer Typing SVG" />
 
 <br/>
 
@@ -236,6 +219,6 @@ me.say_hi()
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--   ⭐ If you found this profile helpful, consider starring!      -->
-<!--   📌 Last Updated: 2026                                         -->
+<!--    If you found this profile helpful, consider starring!      -->
+<!--    Last Updated: 2026                                         -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
