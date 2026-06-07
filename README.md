@@ -13,8 +13,8 @@
 
 <!-- ── PROFILE HEADER ── -->
 <h1>V S Manikanta Vasireddy</h1>
-<h3>🚀 Software Developer &nbsp;|&nbsp; 🤖 AI & ML Engineer &nbsp;|&nbsp; 📊 Data Analyst</h3>
-<h4>📍 Andhra Pradesh, India &nbsp;|&nbsp; 🎓 Fresh Graduate — Open to Internships & Full-Time Roles</h4>
+<h3> Software Developer &nbsp;|&nbsp;  AI & ML Engineer &nbsp;|&nbsp;  Data Analyst</h3>
+<h4> Andhra Pradesh, India &nbsp;|&nbsp; Fresh Graduate — Open to Internships & Full-Time Roles</h4>
 
 <br/>
 
@@ -32,7 +32,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 ```python
 class Manikanta:
@@ -42,11 +42,11 @@ class Manikanta:
         self.education  = "B.Tech @ Srinivasa Institute of Engineering & Technology"
         self.location   = "Andhra Pradesh, India"
         self.goals      = ["SDE", "Data Analyst", "AI Engineer", "ML Engineer"]
-        self.interests  = ["Puzzle Solving 🧩", "Cricket 🏏", "Travelling ✈️"]
-        self.quote      = "Dream big, code smart, impact the world 🌊"
+        self.interests  = ["Puzzle Solving ", "Cricket ", "Travelling "]
+        self.quote      = " Dream big, code smart, impact the world "
 
     def say_hi(self):
-        print("Thanks for visiting! Let's build something amazing together 🚀")
+        print("Thanks for visiting! Let's build something amazing together ")
 
 me = Manikanta()
 me.say_hi()
