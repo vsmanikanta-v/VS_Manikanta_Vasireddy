@@ -7,8 +7,8 @@
 <div align="center">
 
 <!-- ── ANIMATED TYPING BANNER ── -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=false&width=700&height=60&lines=Hey+there!+I'm+Manikanta+%F0%9F%91%8B;Software+Developer+%7C+AI+%26+ML+Engineer;Data+Analyst+%7C+Problem+Solver;
-  Dream+Big,+Code+Smart,+Impact+the+World+%F0%9F%9A%80" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=false&width=700&height=60&lines=Hey+there!+I'm+Manikanta+%F0%9F%91%8B;Software+Developer+%7C+AI+%26+ML+Engineer;Data+Analyst+%7C+Problem+Solver;Dream+Big,+Code+Smart,+Impact+the+World+%F0%9F%9A%80" alt="Typing SVG" />
 
 
 <br/>
